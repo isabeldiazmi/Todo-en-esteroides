@@ -1,0 +1,11 @@
+# Este archivo sirve para crear registros de prueba
+Task.create(completed: false, tarea: "Estudiar señales y sistemas")
+Task.create(completed: false, tarea: "Terminar proyecto señales")
+Task.create(completed: false, tarea: "Empezar proyecto circuitos")
+Task.create(completed: false, tarea: "Aprender VHDL")
+Task.create(completed: false, tarea: "Estudiar maquinas de estado")
+Task.create(completed: false, tarea: "Ver videos machine learning")
+Task.create(completed: false, tarea: "Empezar lo de valeo")
+Task.create(completed: false, tarea: "Estudiar materiales")
+Task.create(completed: false, tarea: "Ir a codea")
+Task.create(completed: false, tarea: "Terminar practica materiales")
